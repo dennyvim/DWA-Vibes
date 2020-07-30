@@ -4,4 +4,14 @@
 
 Para los mockups de la aplicación se utilizo Figma como herramienta facilitadora, se agrega el link entonces para redigirse allí a mirar los diseños.
 
-https://www.figma.com/file/Lz323CGqfrevaSyeBzauWp/Untitled?node-id=5%3A7
+Home:
+
+https://www.figma.com/file/Lz323CGqfrevaSyeBzauWp/Vibes_Detalles?node-id=37%3A1
+
+Catalogo:
+
+https://www.figma.com/file/Lz323CGqfrevaSyeBzauWp/Vibes_Detalles?node-id=69%3A82
+
+Personalizar:
+
+https://www.figma.com/file/Lz323CGqfrevaSyeBzauWp/Vibes_Detalles?node-id=69%3A84
