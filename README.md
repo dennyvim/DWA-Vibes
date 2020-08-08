@@ -1,5 +1,10 @@
 # DWA-Vibes
 
+## Tema
+
+El emprendimiento que se va a trabajar desde la materia Desarrollo Web Avanzado es un emprendimiento en el cual las personas hacen pedidos de anchetas, regalos personalizados, desayunos sorpresas entonces para tener una mayor presencia en redes sociales por parte del emprendimiento la idea es realizar una página web para mostrar su catálogo de productos y adicional a esto tener la posibilidad de tener un stack de productos donde los clientes pueden hacer un drag and drop e ir armando su ancheta personalizada sin necesidad de depender totalemente de que una persona lo esté atendiendo y así puede ajustar mejor su presupuesto y no limitarse a las combinaciones que las personas del empredimiento le ofrecen además de la intregación de una pasarela de pagos para hacerlos por este medio diversificando los métodos de pago y llegar a más público. También entonces se pretende mostrarle al cliente el estado de su pepido y fecha tentativa de entrega.
+
+
 ## Justificación
 
 Este proyecto es realizado por interés personal en la idea además de esto para el apoyo del empredimiento en su crecimiento y su presencia en internet, actualmente éste sólo se encuentra activo en Facebook e Instagram por lo que el desarrollo de una página web masificará y diversificará su producto a nivel nacional además se quiere entrar a competir con otros empredimientos con el valor agregado que se describe en otro apartado.
